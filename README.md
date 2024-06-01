@@ -5,7 +5,7 @@
 (4). Continuous Deployment
 
 ### Docker Setup In EC2 commands
-Configure EC2 as self-hosted runner:
+Configure EC2 as self-hosted runner.
 
 ### All Deployments (for practices purpose only):
 (1). Built and optimized machine learning models. \
@@ -13,4 +13,6 @@ Configure EC2 as self-hosted runner:
 (3). AWS cloud using CICD pipelines. \
 (4). Azure cloud using Github Actions.
 
-Please also refer to https://www.youtube.com/playlist?list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG, thanks
+### Acknowledge
+(1). YouTube
+(b). Udemy
