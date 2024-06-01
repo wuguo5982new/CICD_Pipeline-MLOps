@@ -14,5 +14,5 @@ Configure EC2 as self-hosted runner.
 (4). Azure cloud using Github Actions.
 
 ### Acknowledge
-(1). YouTube
-(b). Udemy
+(a). YouTube. \
+(b). Udemy.
