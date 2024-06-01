@@ -1,8 +1,8 @@
 ## End to End Machine Learning Project (for practice purpose only)
-Docker Build.\
-Github Workflow.\
-ECR Setup In AWS (build and push ecr image). \
-Continuous Deployment
+(1). Docker Build.\
+(2). Github Workflow.\
+(3). ECR Setup In AWS (build and push ecr image). \
+(4). Continuous Deployment
 
 ### Docker Setup In EC2 commands
 Configure EC2 as self-hosted runner:
